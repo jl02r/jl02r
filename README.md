@@ -1,7 +1,3 @@
-### 🔲 Saulo Amaral
-
-` Computer Gang Enthusiast (Embedded Software/Hardware) `
-
 I primarily work with embedded microcontrollers and Linux, focusing on IoT/Automation projects. In my free time, I am a hobbyist with peculiar music preferences and a passion for both cutting-edge technologies and nostalgic, antiquated ones. Currently, I am studying Kotlin and Antenna Theory to enhance my knowledge for upcoming personal hobby-projects.
 
 ### Languages and Tools
