@@ -1,4 +1,4 @@
-I primarily work with embedded microcontrollers and Linux, focusing on IoT/Automation projects. In my free time, I am a hobbyist with peculiar music preferences and a passion for both cutting-edge technologies and nostalgic, antiquated ones. Currently, I am studying Kotlin and Antenna Theory to enhance my knowledge for upcoming personal hobby-projects.
+I primarily work with embedded microcontrollers and Linux, focusing on IoT/Automation projects.
 
 ### Languages and Tools
 <img align="left" width="50px" style="padding-right:15px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-plain.svg" />
